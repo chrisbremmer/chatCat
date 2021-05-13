@@ -1,0 +1,22 @@
+{
+  "name": "chatcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbremmer/chatCat.git"
+  },
+  "author": "Chris Bremmer",
+  "license": "ISC",
+  "engines": {
+    "node": "14.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisbremmer/chatCat/issues"
+  },
+  "homepage": "https://github.com/chrisbremmer/chatCat#readme"
+}
